@@ -1,0 +1,59 @@
+Codelock Information:
+-
+
+🤖 Codelock – Your All-in-One Utility & Moderation Bot!
+Created by DarshanwinYt
+
+Codelock is the ultimate multipurpose Discord bot designed to help manage your server with ease and efficiency. Whether you're building a community or running a gaming clan, Codelock has got your back!
+
+✨ Features:
+
+🔒 Advanced Moderation Tools (kick, ban, mute, warn, etc.)
+
+⚙️ Easy-to-use Auto Moderation
+
+💬 Customizable Welcome & Leave Messages
+
+🎮 Fun & Utility Commands (games, polls, reminders, etc.)
+
+📊 Server Stats & Logs
+
+🎉 Giveaways & Reaction Roles
+
+🧩 Constantly Updated with New Features
+
+👑 Why Codelock?
+With a clean interface, powerful commands, and reliable performance, Codelock is the perfect choice for server admins and users alike. Plus, it's built and maintained with passion by DarshanwinYt!
+
+
+
+
+
+Codelock commands:
+
+1, /msg - messages a user for a codelock development advertisement
+
+2, /test-bot - Sends a message to the developer alerting that a global user has used it
+
+3, /trigger - Give you the website support
+
+4, /setup - does nothing
+
+5, /dashboard - coming soon!
+
+6, /operator-debug - dev selected users only
+
+7, /debug - doesn't work most of it coming soon!
+
+8, /mods - creates a modlist and displays diff ranks
+
+
+
+
+
+
+
+Free codes not for bot:
+Lua code only,
+
+local gamma = game.workspace. --part here gamma.name = Codelock 2385
